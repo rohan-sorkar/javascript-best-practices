@@ -1,0 +1,11 @@
+1. use splice to remove an item from array.
+2. always use `curly brace` and `semicolon` in your program.
+3. create helper function for common tasks.
+4. use for....of instead of for loops.
+5. comment your code but keep it short. and don't make 
+   unnecessary comment.
+6. consider optional chaining to access objects property.
+7. use ?? operator instead of || operator if the case is to
+   check `null` or `undefined` .
+8. use || operator to check falsy value and use && operator to check
+   truthy value and use ?? operator to check only null and undefined value

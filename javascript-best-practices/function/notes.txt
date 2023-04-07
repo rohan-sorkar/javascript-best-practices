@@ -1,0 +1,5 @@
+- JavaScript function names are also case-sensitive. So, similar to variables, 
+  the camel case approach is the recommended way to declare function names.
+- So start function names with a letter, use camelCase for names.
+- Use descriptive names, usually verbs in the imperative form.
+- Common prefixes are `get`, `make`, `apply` etc.

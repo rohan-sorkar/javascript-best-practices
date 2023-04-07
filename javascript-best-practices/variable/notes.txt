@@ -1,0 +1,11 @@
+===> variable <===
+- Names are case-sensitive, lowercase and uppercase are different.
+- Start variable names with a letter, use camelCase for names.
+- Variable names should be self-descriptive, describing the stored value.
+- Boolean variables are usually prefixed with `is` or `has`.
+
+===> constants <===
+- JavaScript constants are also case-sensitive. However, these constants should
+  be written in uppercase because they are non changing variables.
+- Define constants at the top of your file, function or class.
+- Sometimes `UPPER_SNAKE_CASE` is used, while other times plain camelCase.
